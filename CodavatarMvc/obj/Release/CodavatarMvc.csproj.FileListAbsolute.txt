@@ -88,4 +88,3 @@ D:\Code\CodavatarMvc\CodavatarMvc\obj\Release\CodavatarMvc.csproj.CoreCompileInp
 D:\Code\CodavatarMvc\CodavatarMvc\obj\Release\CodavatarMvc.csproj.CopyComplete
 D:\Code\CodavatarMvc\CodavatarMvc\obj\Release\CodavatarMvc.dll
 D:\Code\CodavatarMvc\CodavatarMvc\obj\Release\CodavatarMvc.pdb
-D:\Code\CodavatarMvc\CodavatarMvc\obj\Release\CodavatarMvc.csprojAssemblyReference.cache

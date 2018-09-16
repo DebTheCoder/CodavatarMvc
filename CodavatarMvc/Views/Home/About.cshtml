@@ -1,11 +1,13 @@
-﻿@{
+﻿@using CodavatarMvc.Models;
+@{
     ViewBag.Title = "About";
+    var data = ViewBag.Model;
 }
 <h2>@ViewBag.Title.</h2>
 <h3>@ViewBag.Message</h3>
 <h4>@ViewBag.NewMsg</h4>
 
-<p>@ViewBag.Model.Id</p>
-<p>@ViewBag.Model.Name</p>
+<p>@data.Id</p>
+<p>@data.Name</p>
 
 <p>Use this area to provide additional information.</p>
