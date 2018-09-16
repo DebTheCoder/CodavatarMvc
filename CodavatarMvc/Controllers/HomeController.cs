@@ -16,6 +16,7 @@ namespace CodavatarMvc.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "New project created.";
+            ViewBag.NewMsg = "This is a brand new message";
 
             return View();
         }

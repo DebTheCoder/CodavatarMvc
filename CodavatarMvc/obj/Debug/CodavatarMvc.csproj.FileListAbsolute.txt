@@ -84,7 +84,6 @@ D:\Code\CodavatarMvc\CodavatarMvc\bin\Microsoft.AI.DependencyCollector.xml
 D:\Code\CodavatarMvc\CodavatarMvc\bin\Microsoft.AI.WindowsServer.xml
 D:\Code\CodavatarMvc\CodavatarMvc\bin\Microsoft.AI.Web.xml
 D:\Code\CodavatarMvc\CodavatarMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Code\CodavatarMvc\CodavatarMvc\obj\Debug\CodavatarMvc.csprojAssemblyReference.cache
 D:\Code\CodavatarMvc\CodavatarMvc\obj\Debug\CodavatarMvc.csproj.CoreCompileInputs.cache
 D:\Code\CodavatarMvc\CodavatarMvc\obj\Debug\CodavatarMvc.csproj.CopyComplete
 D:\Code\CodavatarMvc\CodavatarMvc\obj\Debug\CodavatarMvc.dll
